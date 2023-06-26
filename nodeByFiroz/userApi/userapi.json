@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name":"firoz",
+        "username":"firozuddin",
+        "email":"hello@gmail.com",
+        "address":{
+            "street":"abc1",
+            "city":"kolkata",
+            "pincode":"712452"
+        },
+        "phone":"7058895620",
+        "website":"www.abc.com"
+    },
+
+    {
+        "id":2,
+        "name":"neha",
+        "username":"neha123",
+        "email":"neha@gmail.com",
+        "address":{
+            "street":"abc5",
+            "city":"delhi",
+            "pincode":"712512"
+        },
+        "phone":"7058255620",
+        "website":"www.dbc.com"
+    },
+
+    {
+        "id":3,
+        "name":"salman",
+        "username":"salman29",
+        "email":"salman@gmail.com",
+        "address":{
+            "street":"ab11",
+            "city":"kolkata",
+            "pincode":"710052"
+        },
+        "phone":"7558895620",
+        "website":"www.abc4.com"
+    },
+
+    {
+        "id":4,
+        "name":"sarita",
+        "username":"kumarisarita",
+        "email":"kumari@gmail.com",
+        "address":{
+            "street":"abc12",
+            "city":"agra",
+            "pincode":"612452"
+        },
+        "phone":"7023595620",
+        "website":"www.apbc.com"
+    }
+]
